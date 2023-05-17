@@ -3,7 +3,10 @@
 
 - 🔭 Cursando área Tecnóloga, me formo ao fim de 2023 no curso de Análise de Sistemas.
 - 📖 Apaixonado em aprender e me atualizar.
-- 🎖️ Estudando e linkando meus conhecimentos aqui no Git/GitHub.
+- 🎖️ Estudando e linkando meus conhecimentos aqui.
+
+Atualmente estou mais focado em entender plenamente as ferramentas do Git/GitHub e em desenvolver projetos baseados na realidade comercial, em JavaScript.<br>
+E futuramente, irei estudar Oracle SGBD e Node.JS
 
 <div style="display: inline_block"><br>
 
@@ -24,9 +27,7 @@
 <div>
 
   <a href = "https://instagram.com/lohanjr" target="_blank"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
   <a href = "mailto:lohan.costa11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   <a href = "https://www.linkedin.com/in/lohan-costa-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
