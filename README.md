@@ -6,9 +6,9 @@
 - 🎖️ Estudando e linkando meus conhecimentos aqui.
 
 Atualmente estou mais focado em entender plenamente as ferramentas do Git/GitHub e em desenvolver projetos baseados na realidade comercial, em JavaScript.<br>
-E futuramente, irei estudar Oracle SGBD e Node.JS
+E futuramente, irei estudar Node.JS e Jest, respectivamente.
 
-<a href = "https://lohanjr.github.io/portfolio/" target="_blank">Veja meu portfolio!</a>
+<a href = "https://lohanjr.github.io/portfolio/" target="_blank">Meu portfolio!</a>
 
 <div style="display: inline_block"><br>
 
