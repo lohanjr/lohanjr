@@ -1,14 +1,16 @@
-## Feliz pela sua visita!
-### O que ando aprontando...
+## Happy with your visit! 😁👍
+### What I've been doing...
 
-- 🔭 Cursando área Tecnóloga, me formo ao fim de 2023 no curso de Análise de Sistemas.
-- 📖 Apaixonado em aprender e me atualizar.
-- 🎖️ Estudando e linkando meus conhecimentos aqui.
+- 🔭 I'm at Anhembi Morumbi University, studying Systems Analysis and Development.
+- 📖 Passionate about studying and updating myself.
+- 🎖️ Linking my projects and knowledge here.
 
-Atualmente estou mais focado em entender plenamente as ferramentas do Git/GitHub e em desenvolver projetos baseados na realidade comercial, em JavaScript.<br>
-E futuramente, irei estudar Node.JS e Jest, respectivamente.
+I'm born and raised in Campinas, a city of Brazil. I speak Portuguese-BR and English.</br>
+I got a solid knowledge in Javascript.</br>
+And currently, I'm more focused on fully understanding Git tools and contributing to open source Java projects.<br>
 
-<a href = "https://lohanjr.github.io/portfolio/" target="_blank">Meu portfolio!</a>
+I already worked as an Intern of Web Development, in the second semester of 2023, with the teconlogies:</br>
+PHP, Javascprit, JSON, WorldPress and PhotoShop.</br>
 
 <div style="display: inline_block"><br>
 
@@ -28,8 +30,7 @@ E futuramente, irei estudar Node.JS e Jest, respectivamente.
 
 <div>
 
-  <a href = "https://instagram.com/lohanjr" target="_blank"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lohan.costa11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.hackerrank.com/profile/lohan_costa11"><img src="https://img.shields.io/badge/-Hackerrank-%23333?style=for-the-badge&logo=hackerrank&logoColor=green" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/lohan-costa-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
