@@ -1,28 +1,23 @@
 ## Happy with your visit! 😁👍
 ### What I've been doing...
 
-- 🔭 I'm at Anhembi Morumbi University, studying Systems Analysis and Development.
+- 🔭 I hold a Technologist degree in Systems Analysis and Development from Anhambi Morumbi University, Campinas - São Paulo.
 - 📖 Passionate about studying and updating myself.
 - 🎖️ Linking my projects and knowledge here.
 
 I'm born and raised in Campinas, a city of Brazil. I speak Portuguese-BR and English.</br>
-I got a solid knowledge in Javascript.</br>
-And currently, I'm more focused on fully understanding Git tools and contributing to open source Java projects.<br>
+I'm a professional football athlete living in Poland.</br>
+And currently, I code for fun.<br>
 
 I already worked as an Intern of Web Development, in the second semester of 2023, with the teconlogies:</br>
 PHP, Javascprit, JSON, WorldPress and PhotoShop.</br>
 
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   
-  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   
 </div>
 
