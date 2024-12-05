@@ -9,7 +9,7 @@ I'm born and raised in Campinas, a city of Brazil. I speak Portuguese-BR and Eng
 I'm a professional football athlete living in Poland.</br>
 And currently, I code for fun.<br>
 
-I already worked as an Intern of Web Development, in the second semester of 2023, with the teconlogies:</br>
+I already worked as an Intern of Web Development, in the second semester of 2023, with the technologies:</br>
 PHP, Javascprit, JSON, WorldPress and PhotoShop.</br>
 
 <div style="display: inline_block"><br>
