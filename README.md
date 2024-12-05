@@ -10,7 +10,7 @@ I'm a professional football athlete living in Poland.</br>
 And currently, I code for fun.<br>
 
 I already worked as an Intern of Web Development, in the second semester of 2023, with the technologies:</br>
-PHP, Javascprit, JSON, WorldPress and PhotoShop.</br>
+PHP, Javascript, JSON, WorldPress and PhotoShop.</br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
